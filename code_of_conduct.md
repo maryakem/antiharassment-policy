@@ -5,8 +5,8 @@ CodeOfConduct4Lib
 
 Short link: <http://bit.ly/coc4lib>
 
-Code4Lib seeks to provide a welcoming, fun, and safe community and
-conference experience and ongoing community for everyone. We do not
+Library people learning code -- like Code4Lib seeks to provide a welcoming, fun, 
+and safe and ongoing community for everyone. We do not
 tolerate harassment in any form. Discriminatory language and imagery
 (including sexual) is not appropriate for any event venue, including talks,
 or any community channel such as the chatroom or mailing list.
