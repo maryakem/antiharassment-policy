@@ -1,11 +1,12 @@
 Library People learning code #YVR
 ===============================
 
+
+
 This is a repository to provide a space for members of a local learn code group in Vancouver (YVR).
 
-Based on the use of github by the code4lib community we are experimenting with github to support our learning needs as follows:
-
 ## About this repository
+Based on the use of github by the code4lib community we are experimenting with github to support our learning needs as follows:
 
 * Post a project idea
 * Create a discussion item
