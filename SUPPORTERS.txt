@@ -1,28 +1,19 @@
-Daniel Chudnov (@dchud on github, twitter, freenode)
-Michael B. Klein (@mbklein on github, twitter, freenode)
-Michael J. Giarlo (@mjgiarlo on github, twitter, freenode)
-Nick Ruest (@ruebot on github, twitter, freenode)
-Mark A. Matienzo (@anarchivist on github, twitter, freenode)
-Hillel Arnold (@helrond on github, twitter, freenode)
-Shaun Ellis (@sdellis on github, twitter)
-Cary Gordon (@highermath on github, twitter, freenode)
-Andromeda Yelton (@thatandromeda on github, twitter, freenode)
-Jon Stroop (@jpstroop on github, twitter, freenode)
-Esmé Cowles (@escowles on github, twitter, freenode)
-Eric Phetteplace (@phette23 on github, twitter)
-Bohyun Kim (@bohyunkim on github, twitter)
-Tom Johnson (@no_reply on twitter)
-Erin White (@erinrwhite on twitter, github)
-Francis Kayiwa (@kayiwa on twitter, github, freenode)
-Jay Luker (@lbjay on twitter, github, freenode)
-Ross Singer (@rsinger on twitter, github, freenode)
-Ed Summers (@edsu on github, twitter, freenode)
-Jason Casden (@cazzerson on github, twitter, freenode)
-Cynthia Ng (@TheRealArty on twitter, Arty-chan on github, freenode)
-Misty De Meo (@mistydemeo on twitter, github, mistym on freenode)
-Chad Nelson (@bibliotechy on github, twiiter, freenode)
-Bess Sadler (@eosadler on twitter, bess on github and freenode)
+Forum members and notes on personal goals
+Calvin -- Programmer at SFU
+Eka -- MLIS candidate -- BC DIgitiztion Coalition Co-op student
+Helen -- MLIS candidate -- PHP, Ruby + Javascript.
+Erin -- VPL librarian, Seeking sustainable code learning.  Tech learning
+Sam -- MLIS candidate Social Intranet staffer working at VPL as a student librarian.
+Allie -- MLIS candidate DB TExt worker, Metadata
+Alex G -- SFU Librarian, Digital Initiatives Librarian
+Allison -- MLIS candidate, Seeking to gain confidence as  a Coder
+Dethe -- Not any sort of librarian.  and Coder mentor
+Sarah Sutherland -- Librarian, works at CANLI, Free and open law
+Karen Quinn Fung -- Urban Planner, Board Member of the Vancouver Public Space Network 
+Liam Whalen -- Cooperative Systems Specialist and Librarian, BC Libraries Co-operative 
+
+
+Maryann -- Access and Learning Specialist, BC Libaries Co-operative (@marykem on github, twitter, freenode MAK)
+Cynthia Ng CAPER-BC. A sort of librarian (teacher) and a Coder mentor. (@TheRealArty on twitter, Arty-chan on github, freenode)
 Scott Robarts (@srobarts on twitter, srobarts on github)
-Helen Halbert (@hhalbert on github)
 Mary Jinglewski (@mjingle on twitter, github, and freenode)
-Galen Charlton (@gmcharlt on twitter, github, and freenode)
