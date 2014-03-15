@@ -17,7 +17,7 @@ Based on the use of github by the code4lib community we are experimenting with g
 
 ## About this group
 
-We are a group of local library people around Vancouver with a commitment to work on coding skills together. We do a weekly create and transparently show our learning to peers and mentors in the group.  Everyone in the group is a peer AND a mentor.  We have no members by virtue of any group or employer affliliation.
+We are a group of local library people around Vancouver with a commitment to work on coding skills together. We do a weekly create and transparently show our learning to peers and mentors in the group.  Everyone in the group is a peer AND a mentor.  We have no members by virtue of any group or employer affliliation -- come as yourself or not at all.
 
 To join you will have to:
 * get your own github account
