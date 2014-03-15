@@ -1,20 +1,27 @@
-Code4lib Anti-Harassment Policy
+Library People learning code #YVR
 ===============================
 
-This is a repository to provide a space to draft and allow for dialog in the creation of an anti-harassment policy for the [Code4lib](http://code4lib.org/) annual conference. 
+This is a repository to provide a space for members of a local learn code group in Vancouver (YVR).
 
-Resources for policies/starting points:
+Based on the use of github by the code4lib community we are experimenting with github to support our learning needs as follows:
 
-* [The Ada Initiative: Anti-harassment work](http://adainitiative.org/what-we-do/conference-policies/)
-* [Geek Feminism Wiki: example anti-harassment policy for conferences](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy)
-* [howto hack code4lib: don't be sexist/racist/*ist](http://wiki.code4lib.org/index.php/How_to_hack_code4lib#Don.27t_be_sexist.2Fracist.2F.2Aist)
-* [CAUT Anti-harassment and Non-Discrimination Statement](https://www.caut.ca/pages.asp?page=302&lang=1)
-* [AAI Anti-harassment policy](http://www.atheistalliance.org/activities/23-conventions/507-anti-harassment-policy): This is a good one because it includes a short boilerplate statement for conferences/events, plus a longer document suitable for the organization as a whole. 
+## About this repository
 
-## Open questions
+* Post a project idea
+* Create a discussion item
+* Reveal your code and your repository
+* Work on a software project together
+* Fork a project on github
+* Record meeting notes and other ideas in the wiki
 
-* How do we cover not only the conference/IRL interactions, but IRC, etc. too?
-* Do we require a [duty officer](http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Duty_officer) explicitly? Is it fair/reasonable/workable to have conference staff be in that role?
+
+## About this group
+
+We are a group of local library people around Vancouver with a commitment to work on coding skills together. We do a weekly create and transparently show our learning to peers and mentors in the group.  Everyone in the group is a peer AND a mentor.  We have no members by virtue of any group or employer affliliation.
+
+To join you will have to:
+* get your own github account
+* share ideas, tools and talk
 
 ## License
 
@@ -22,13 +29,13 @@ Resources for policies/starting points:
 
 ## Discuss
 
-Discussion is welcome either on the [Code4lib listserv](https://listserv.nd.edu/cgi-bin/wa?SUBED1=CODE4LIB&A=1) or by creating a new issue: https://github.com/code4lib/antiharassment-policy/issues/new
+Discussion is welcome by creating a new issue: https://github.com/maryakem/llearncode/issues/new
 
 ## Contribute
 
 ### Using Github (doesn't require knowing Git)
 
-1. Fork the codebase e.g. to https://github.com/your-username/antiharassment-policy (click the "Fork" button in the upright corner of the page)
+1. Fork the codebase e.g. to https://github.com/your-username/llearncode (click the "Fork" button in the upright corner of the page)
 1. Click the link for one of the files (e.g. `code_of_conduct.md`)
 1. Click the Edit button
 1. Add a commit summary and (optionally) an extended description
