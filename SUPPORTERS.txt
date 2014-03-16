@@ -1,7 +1,7 @@
 Forum members and notes on personal goals
 Calvin -- Programmer at SFU
 Eka -- MLIS candidate -- BC DIgitiztion Coalition Co-op student
-Helen -- MLIS candidate -- PHP, Ruby + Javascript.
+Helen Halbert -- MLIS candidate -- LSIT Co-op student (@thepwnco on twitter & github)
 Erin -- VPL librarian, Seeking sustainable code learning.  Tech learning
 Sam -- MLIS candidate Social Intranet staffer working at VPL as a student librarian.
 Alli -- MLIS candidate DB TExt worker, Metadata
