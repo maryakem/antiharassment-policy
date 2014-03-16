@@ -11,9 +11,7 @@ Dethe -- Not any sort of librarian.  and Coder mentor
 Sarah Sutherland -- Librarian, works at CANLI, Free and open law
 Karen Quinn Fung -- Urban Planner, Board Member of the Vancouver Public Space Network 
 Liam Whalen -- Cooperative Systems Specialist and Librarian, BC Libraries Co-operative 
-
-
 Maryann -- Access and Learning Specialist, BC Libaries Co-operative (@marykem on github, twitter, freenode MAK)
-Cynthia Ng CAPER-BC. A sort of librarian (teacher) and a Coder mentor. (@TheRealArty on twitter, Arty-chan on github, freenode)
+Cynthia Ng CAPER-BC. Librarian (teacher) and a Coder mentor. (@TheRealArty on twitter, Arty-chan on github, freenode)
 Scott Robarts (@srobarts on twitter, srobarts on github)
 Mary Jinglewski (@mjingle on twitter, github, and freenode)
